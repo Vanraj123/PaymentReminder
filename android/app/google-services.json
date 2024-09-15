@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788439251838",
+    "project_id": "paymentreminderapp-83306",
+    "storage_bucket": "paymentreminderapp-83306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788439251838:android:a256ca5541bb7b468cd12f",
+        "android_client_info": {
+          "package_name": "com.example.projectpayreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnb_IEIPjSD3WuycXIpTzkWKNfXIuZ3Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
